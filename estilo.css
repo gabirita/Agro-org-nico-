@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-color: rgb(0, 77, 1);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color:rgb(249, 249, 249);
+    text-decoration: none;
+}
+
+h2{ 
+    color: chartreuse;
+}
+
+h6{
+    color: darkcyan;
+}
+
+h5{
+    color: darkturquoise;
+    font: 1.2em sans-serif;
+}
+
+footer img {
+    width: 48px;
+    height: 48px;
+}
+  h4{
+    color: #2dff7a;
+
+}
